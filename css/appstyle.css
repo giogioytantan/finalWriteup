@@ -1,0 +1,21 @@
+body { /* Matches elements with id=SimpleDive */
+	background-color:white;
+	background-image:url("http://i45.tinypic.com/10f0so1.jpg");
+	margin:5%;
+}
+
+html,body {
+	heigh:100%
+	width:100%;
+}
+
+h1 { /* Matches elements with h3 tag */
+	color: black;
+	font-size: 50px;
+}
+
+#div1 {
+	clear:both;
+	height: 10%;
+}
+
